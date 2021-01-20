@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <key>Teste</key>
+        <title>Teste</title>
+        <bdate>20/01/2021</bdate>
+        <edate>20/01/2021</edate>
+        <supervisor url="http://www.di.uminho.pt/~jcr">José Carlos Ramalho</supervisor>
+    </meta>
+    <team>
+        <member id="pg42851">
+            <name>Tiago Rico Gonçalves</name>
+            <email>pg42851@alunos.uminho.pt</email>
+        </member>
+    </team>
+    <abstract>
+    <p>1.1- Apesar de ter usado o ficheiro baptismo-fixed.json, inicialmente ainda coloquei aspas nos nomes do campos "date", "title, "ref" e "href" do ficehiro original.<p>
+    <p>Avancei com o ficehiro desta questão.<p>
+    <p>Crieir<p>
+    <p><p>
+    <p>2.1.1- 1  [
+    {
+        "value": "900",
+        "msg": "Valor não começa por 'c'",
+        "param": "id",
+        "location": "params"
+    }
+]</p>
+<p>1.4- GET /api/batismos     simples find
+GET /api/batismos/:id      find com filtro
+GET /api/batismos?ano=YYYY     findo com filtro com regex <p>
+<p>2.1.2- 641<p>
+<p>2.1.3- 1  [
+    {
+        "value": "900.10",
+        "msg": "Valor não começa por 'c'",
+        "param": "id",
+        "location": "params"
+    }
+]<p>
+<p>2.1.4- 1  [
+    {
+        "value": "900.10.505",
+        "msg": "Valor não começa por 'c'",
+        "param": "id",
+        "location": "params"
+    }
+]<p>
+    </abstract>
+    <deliverables>
+        <link url="ex1">Respostas Exercicio 1</link>
+        <link url="ex2">Respostas Exercicio 2</link>
+    </deliverables>
+</pr>
